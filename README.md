@@ -127,9 +127,7 @@ Silent myocardial infarctions (SMI) often present **without classic chest‑pain
 
 ## Future Improvements
 - **Real-time Alert System:** Implement an intelligent alert mechanism that automatically notifies **nearby emergency or healthcare services** when serious or abnormal ECG patterns are detected.
-- **Integrated Communication Layer:** Enable **direct emergency calls or SMS alerts** to registered medical contacts or family members for critical cases.
 - **Doctor Connectivity Module:** Add an **interactive “Consult a Doctor” button** to connect users with **nearby certified cardiologists** or healthcare professionals for instant consultation.
-- **Cloud-based Monitoring:** Extend functionality to a **secure cloud platform** for remote patient monitoring and historical ECG trend analysis.
 - **Mobile Integration:** Develop a **companion mobile app** to provide alerts, recommendations, and real-time health updates on the go.
 
 ---
